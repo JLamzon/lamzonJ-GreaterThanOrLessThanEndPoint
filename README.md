@@ -19,3 +19,5 @@ Open postman, copy and paste the port address into Postman Get:  https://localho
 you can verify port by going to VSCode -> Debug Console -> Scroll up until you see “Now listening on port”
 Add Input Controller Name -> Route Name -> user input.  Example: https://localhost:7000/CName/RName/UInput
 Then click “Send” to show output.
+
+https://github.com/JLamzon/lamzonJ-GreaterThanOrLessThanEndPoint
